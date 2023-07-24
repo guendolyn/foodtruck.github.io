@@ -1,0 +1,78 @@
+
+    body{
+        font-family: 'Quicksand', sans-serif;
+        background-image: url(side.jpeg);
+        background-size: 100%;
+        padding-left: 100px;
+        padding-right: 100px;
+       
+        
+    }
+    
+    .headline{
+        color: rgb(0, 0, 0);
+        font-size: 55px;
+        text-align: center;
+        background-color: white;
+    }
+    
+    .menu-image {
+        width: 100%;
+    
+    }
+    .standort-image {
+        width: 50%;
+    }
+    .konzept-image {
+        width: 100%;
+    }
+    .navbar{
+        display: flex;
+        justify-content: space-between;
+        align-items: center; 
+     }
+    a {
+        color: goldenrod;
+        font: weight 100px;
+       font-size: 15px;
+       margin-right: 30px;
+       background-color: white;
+       text-align: center;
+    }
+    a:hover {
+        text-decoration: underline; 
+        font-stretch: extra-expanded;
+    }
+    .links {
+        text-align: center;
+    }
+    p {
+       text-align: justify;
+        font-size: 11px;
+        background-color: white; 
+    }
+    h2 {
+        color:goldenrod;
+        font-size: 22.5px;
+        background-color: white;
+    }
+    h3 {
+        color: goldenrod;
+        font-size: 22.5px;
+        background-color: white;
+    }
+    h4 {
+        color: goldenrod;
+        font-size: 22.5px;
+        background-color: white;
+    }
+    .text-highlight {
+        color: goldenrod;
+        font-size: 25px;
+    }
+    .zwischen {
+        font-size: 25px;
+        color: goldenrod;
+        text-align: center;
+    
+    }
